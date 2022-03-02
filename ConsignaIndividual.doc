@@ -1,0 +1,8 @@
+CLonar un repositorio existente
+Es bajar pro primera vez  al repositorio local un archivo existente en el repositorio remoto
+$ git clone ssh
+
+crear un repositorio local
+Hacer un directorio y colocar el comando $ Git Init
+
+ $ git init se inicializa un nuevo repositorio
